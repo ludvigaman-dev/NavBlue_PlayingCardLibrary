@@ -5,8 +5,9 @@ Simple playing card library made with a .NET 6 Library, complemented with a demo
 
 ## Installation
 
-1. Open **NavBlue_PlayingCardLibrary.sln** in Visual Studio 2022
-2. If necessary, set GameOfCards as startup project
+1. Clone / Download the repository
+2. Open **NavBlue_PlayingCardLibrary.sln** in Visual Studio 2022
+3. If necessary, set GameOfCards as startup project
 
 ## Usage
 
