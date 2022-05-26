@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavBlue_PlayingCardLibrary", "NavBlue_PlayingCardLibrary\NavBlue_PlayingCardLibrary.csproj", "{8A8176C9-D867-4715-BE34-7891B2194AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfCards", "GameOfCards\GameOfCards.csproj", "{B539A21C-484A-436F-B6CA-B8B391D4F486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8176C9-D867-4715-BE34-7891B2194AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A8176C9-D867-4715-BE34-7891B2194AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A8176C9-D867-4715-BE34-7891B2194AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A8176C9-D867-4715-BE34-7891B2194AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B539A21C-484A-436F-B6CA-B8B391D4F486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B539A21C-484A-436F-B6CA-B8B391D4F486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B539A21C-484A-436F-B6CA-B8B391D4F486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B539A21C-484A-436F-B6CA-B8B391D4F486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CADDF81-B2C2-4631-BE3F-0488028211D3}
+	EndGlobalSection
+EndGlobal
