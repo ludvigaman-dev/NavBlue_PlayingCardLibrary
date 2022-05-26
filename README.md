@@ -20,3 +20,7 @@ I've created a project for the technical test in accordance to the requirements,
 ## Additional thoughs
 
 If given more time, Joker implementation, basic game sets and additional demos could've been added.
+
+## Found a bug?
+
+If you've found a bug, have trouble understanding the purpose of something within the project, or miss some functionality; create an Issue here on Github, and I'll answer ASAP.
